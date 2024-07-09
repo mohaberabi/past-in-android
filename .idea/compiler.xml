@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="PastInAndroid.foryou.data" target="17" />
+      <module name="PastInAndroid.foryou.domain" target="17" />
+      <module name="PastInAndroid.foryou.domain.main" target="17" />
+      <module name="PastInAndroid.foryou.domain.test" target="17" />
+      <module name="PastInAndroid.interest" target="17" />
+      <module name="PastInAndroid.interests.data" target="17" />
+      <module name="PastInAndroid.interests.domain" target="17" />
+      <module name="PastInAndroid.interests.domain.main" target="17" />
+      <module name="PastInAndroid.interests.domain.test" target="17" />
+      <module name="PastInAndroid.saved.data" target="17" />
+      <module name="PastInAndroid.search.data" target="17" />
+      <module name="PastInAndroid.search.domain" target="17" />
+      <module name="PastInAndroid.search.domain.main" target="17" />
+      <module name="PastInAndroid.search.domain.test" target="17" />
+      <module name="PastInAndroid.sync.work" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

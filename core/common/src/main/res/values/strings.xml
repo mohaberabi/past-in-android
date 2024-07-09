@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android">Android</string>
+    <string name="system_default">Default</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+
+</resources>

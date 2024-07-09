@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927797757857",
+    "project_id": "pastinandroid",
+    "storage_bucket": "pastinandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927797757857:android:a796a8ac489520adbaede0",
+        "android_client_info": {
+          "package_name": "com.mohaberabi.pastinandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5M7hZmBCHnhl_Y_Pd5OkLSRU07iLUth0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
